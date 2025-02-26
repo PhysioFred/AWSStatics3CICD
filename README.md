@@ -1,0 +1,1 @@
+# AWSStatics3CICD
